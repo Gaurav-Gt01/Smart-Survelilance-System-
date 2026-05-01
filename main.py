@@ -13,9 +13,9 @@ from ultralytics import YOLO
 # ── CONFIG ─────────────────────────────────────────────
 SERIAL_PORT = "/dev/cu.usbserial-1130"
 BAUD_RATE     = 115200
-EMAIL_SENDER  = "gauravtatpate@gmail.com"
-EMAIL_PASSWORD = "rymexgecqvtnjaov"       # Gmail App Password
-EMAIL_RECEIVER = "gptatpate_b23@et.vjti.ac.in"
+EMAIL_SENDER  = "xxxxxxxx@gmail.com"
+EMAIL_PASSWORD = "xxxx xxxx xxxx xxxx"
+EMAIL_RECEIVER = "xxxxxxxxxxx@gmail.com"
 CAPTURES_DIR  = "captures"
 DB_PATH       = "events.db"
 # ───────────────────────────────────────────────────────
